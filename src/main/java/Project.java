@@ -57,5 +57,9 @@ public class Project {
     public String getProposerEmail() {
         return proposerEmail;
     }
+
+    public LocalDate getCreationDate() {
+        return creationDate;
+    }
 }
 
