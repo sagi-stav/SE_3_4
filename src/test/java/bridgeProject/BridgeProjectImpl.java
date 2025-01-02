@@ -36,6 +36,7 @@ public class BridgeProjectImpl implements BridgeProject {
         // Implement the logic to add a new project
         // For example:
         // return projectManager.addProject(user, pass, suggestedProject);
+        return 0;
     }
 
     @Override
